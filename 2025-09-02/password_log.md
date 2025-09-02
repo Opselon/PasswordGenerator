@@ -395,3 +395,22 @@ Generated at 2025-09-02T15:41:38.866Z UTC
 **Notes:** Entropy is estimated; times are approximate and educational.
 Generated at 2025-09-02T15:42:38.865Z UTC
 
+---
+
+
+
+## Batch — 2025-09-02T15:43:38.865Z UTC
+
+| Password | Length | Entropy (bits) | Strength | Crack (online @100/s) | Local GPU (1B/s) | Cluster (1T/s) |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| `ko&L5M\_` | 8 | 52.44 | Moderate | 1932930 years 154 days | 70 days 13 hours | 1 hour 41 minutes |
+| `lE"I7zb#w6wb` | 12 | 78.66 | Moderate | practically infinite | 15091334 years 67 days | 15091 years 121 days |
+| `a0cdGGKS\)f4*1uQ` | 16 | 104.87 | Strong | practically infinite | practically infinite | practically infinite |
+| `F'/pL]k}d<sl}o]j5cDy` | 20 | 131.09 | Very Strong | practically infinite | practically infinite | practically infinite |
+| `kO46y9z+3D,}DUK^40]owse9` | 24 | 157.31 | Very Strong | practically infinite | practically infinite | practically infinite |
+| `OFy`=w'E+_'PFP0<O/*qEd0N](_$p.4V` | 32 | 209.75 | Ultra | practically infinite | practically infinite | practically infinite |
+
+**Tips:** Use a reputable password manager, enable MFA, avoid reuse.
+**Notes:** Entropy is estimated; times are approximate and educational.
+Generated at 2025-09-02T15:43:38.865Z UTC
+
