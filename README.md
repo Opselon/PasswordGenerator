@@ -4,9 +4,6 @@
 
 **Live Tool:** 🌐 **[https://password-generator.opcelon.workers.dev/](https://password-generator.opcelon.workers.dev/)**
 
-
-*(A representative screenshot of the TitanPass UI, showcasing its clean interface and detailed analysis.)*
-
 ---
 
 ## 📜 Project Mission: To Make Uncompromising Security Accessible to Everyone
